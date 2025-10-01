@@ -13,3 +13,7 @@
 
 ![Hasil Pertama](https://github.com/NadhiaShafira/Lab2Web/blob/7307ae47ea87f0de6b3ae6936fdfbe4f3f9f9bb5/Cuplikan%20layar%202025-10-01%20142008.png) 
 
+**Eksperimen 2: Tambahkan efek ke paragraf**
+
+
+
