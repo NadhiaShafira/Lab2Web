@@ -44,6 +44,10 @@ Artinya: deklarasi CSS pada ID akan ditampilkan browser, walaupun Class juga pun
 
 ![contohnya](https://github.com/NadhiaShafira/Lab2Web/blob/26efe0f4c0f3335056a115f31254cc90e5e709f0/1.jpg) 
 
+![contohnya](https://github.com/NadhiaShafira/Lab2Web/blob/f9898415f7b6e2255ca3e3288e2325911613634e/2.jpg) 
+
+
+
 
 
 
