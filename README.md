@@ -19,5 +19,22 @@
 
 ![Hasil Kedua](https://github.com/NadhiaShafira/Lab2Web/blob/8f80150adec2b0d71189105102603db56ec97e57/Cuplikan%20layar%202025-10-01%20142501.png) 
 
+**Jawaban NO 2**
+
+Selektor elemen langsung
+
+h1 {
+  color: blue;
+}
+
+ Artinya: semua elemen <h1> di dalam halaman web akan diberi gaya yang sama (misalnya warna biru). Tidak peduli dia ada di mana, selama itu <h1> maka aturan ini berlaku.
+
+ Selektor dengan ID + elemen
+
+#intro h1 {
+  color: red;
+}
+
+ Artinya: hanya elemen <h1> yang berada di dalam elemen dengan id="intro" yang akan mendapatkan gaya ini.
 
 
