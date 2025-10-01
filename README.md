@@ -21,17 +21,27 @@
 
 **Jawaban NO 2**
 
-Selektor elemen langsung
+Perbedaan H1 dan Intro H1
+**H1**
+- Ini berlaku ke semua elemen <h1>
+- Jadi apapun teks di dalam <h1> (selama tidak ditimpa aturan lain) akan pakai style ini.
+- Contoh di kamu: font-size 40px, warna teks #0f969f (biru kehijauan), background ungu magenta, border hitam, dst.
+**H1 i**
+- Ini lebih spesifik, maksudnya: hanya untuk teks <i> (italic) yang ada di dalam <h1>.
+- Jadi kalau <h1> ada kata biasa dan ada yang dibungkus <i>, maka bagian <i> tidak ikut warna h1 tadi, tapi ikut aturan baru ini.
+- Contoh di kamu: teks <i> jadi abu-abu #6d6a6b, italic, ada garis kiri oranye, padding khusus.
 
-h1 {
-  color: blue;
-}
- Artinya: semua elemen <h1> di dalam halaman web akan diberi gaya yang sama (misalnya warna biru). Tidak peduli dia ada di mana, selama itu <h1> maka aturan ini berlaku.
- Selektor dengan ID + elemen
+**Jawaban NO 3**
 
-#intro h1 {
-  color: red;
-}
- Artinya: hanya elemen <h1> yang berada di dalam elemen dengan id="intro" yang akan mendapatkan gaya ini.
+Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang sama
+- Inline CSS memiliki prioritas paling tinggi.
+- Internal CSS lebih tinggi daripada eksternal CSS.
+- External CSS digunakan jika tidak ada aturan inline maupun internal.
+
+**Jawaban NO 4**
+Jika ID (#id) dan Class (.class) sama-sama dipakai di sebuah elemen HTML, maka ID lebih kuat (spesifik) daripada Class.
+Artinya: deklarasi CSS pada ID akan ditampilkan browser, walaupun Class juga punya aturan CSS.
+
+
 
 
