@@ -5,7 +5,7 @@
 
 **#Hasil Tugas#**
 
-*Jawaban NO 1*
+**Jawaban NO 1 Eksperimen 1: Ubah warna, font, dan tambahkan border**
 
 ![Codingan Pertama](https://github.com/NadhiaShafira/Lab2Web/blob/8a3630e0ef9505256c0bbf79ae4fe6e9a6736608/Cuplikan%20layar%202025-10-01%20142245.png) 
 
