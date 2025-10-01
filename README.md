@@ -15,5 +15,9 @@
 
 **Eksperimen 2: Tambahkan efek ke paragraf**
 
+![Codingan Kedua](https://github.com/NadhiaShafira/Lab2Web/blob/4d2bbf1995f11eb4d670de9524fa6bb6a2eea4b2/Cuplikan%20layar%202025-10-01%20143104.png) 
+
+
+
 
 
