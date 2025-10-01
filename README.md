@@ -1,4 +1,5 @@
 # Lab2Web
+
 **Nama: Nadhia Shafira**
 
 **Kelas: TI.24.A.5**
@@ -22,13 +23,17 @@
 **Jawaban NO 2**
 
 Perbedaan H1 dan Intro H1
+
 **H1**
+
 - Ini berlaku ke semua elemen <h1>
 
 - Jadi apapun teks di dalam <h1> (selama tidak ditimpa aturan lain) akan pakai style ini.
   
 - Contoh: font-size 40px, warna teks #0f969f (biru kehijauan), background ungu magenta, border hitam, dst.
+  
 **H1 i**
+
 - Ini lebih spesifik, maksudnya: hanya untuk teks <i> (italic) yang ada di dalam <h1>.
   
 - Jadi kalau <h1> ada kata biasa dan ada yang dibungkus <i>, maka bagian <i> tidak ikut warna h1 tadi, tapi ikut aturan baru ini.
@@ -44,6 +49,7 @@ Urutan prioritas jika ada inline, internal, dan eksternal CSS pada elemen yang s
 - External CSS digunakan jika tidak ada aturan inline maupun internal.
 
 **Jawaban NO 4**
+
 Jika ID (#id) dan Class (.class) sama-sama dipakai di sebuah elemen HTML, maka ID lebih kuat (spesifik) daripada Class.
 Artinya: deklarasi CSS pada ID akan ditampilkan browser, walaupun Class juga punya aturan CSS.
 
