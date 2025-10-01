@@ -17,7 +17,7 @@
 
 ![Codingan Kedua](https://github.com/NadhiaShafira/Lab2Web/blob/4d2bbf1995f11eb4d670de9524fa6bb6a2eea4b2/Cuplikan%20layar%202025-10-01%20143104.png) 
 
-
+![Hasil Kedua](https://github.com/NadhiaShafira/Lab2Web/blob/8f80150adec2b0d71189105102603db56ec97e57/Cuplikan%20layar%202025-10-01%20142501.png) 
 
 
 
