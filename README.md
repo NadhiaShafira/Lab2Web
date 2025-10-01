@@ -24,12 +24,17 @@
 Perbedaan H1 dan Intro H1
 **H1**
 - Ini berlaku ke semua elemen <h1>
+
 - Jadi apapun teks di dalam <h1> (selama tidak ditimpa aturan lain) akan pakai style ini.
+  
 - Contoh: font-size 40px, warna teks #0f969f (biru kehijauan), background ungu magenta, border hitam, dst.
 **H1 i**
 - Ini lebih spesifik, maksudnya: hanya untuk teks <i> (italic) yang ada di dalam <h1>.
-- Jadi kalau <h1> (ada kata biasa dan ada yang dibungkus) <i>, (maka bagian) <i> (tidak ikut warna h1 tadi, tapi ikut aturan baru ini.)
+  
+- Jadi kalau <h1> ada kata biasa dan ada yang dibungkus <i>, maka bagian <i> tidak ikut warna h1 tadi, tapi ikut aturan baru ini.
+  
 - Contoh: teks <i> jadi abu-abu #6d6a6b, italic, ada garis kiri oranye, padding khusus.
+  
 
 **Jawaban NO 3**
 
