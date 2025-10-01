@@ -26,15 +26,12 @@ Selektor elemen langsung
 h1 {
   color: blue;
 }
-
  Artinya: semua elemen <h1> di dalam halaman web akan diberi gaya yang sama (misalnya warna biru). Tidak peduli dia ada di mana, selama itu <h1> maka aturan ini berlaku.
-
  Selektor dengan ID + elemen
 
 #intro h1 {
   color: red;
 }
-
  Artinya: hanya elemen <h1> yang berada di dalam elemen dengan id="intro" yang akan mendapatkan gaya ini.
 
 
