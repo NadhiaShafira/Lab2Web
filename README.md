@@ -5,4 +5,4 @@
 
 **#Hasil Tugas#**
 
-[foto]
+![Hasil Pertama]
